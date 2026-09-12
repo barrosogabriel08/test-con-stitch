@@ -1,0 +1,6 @@
+{
+  "name": "Sunday Rollers",
+  "description": "Official Sunday Rollers Rec Kickball League app featuring live standings, the podium, game of the week, team schedules, stat leaders, and beer cup rankings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
